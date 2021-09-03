@@ -17,7 +17,7 @@ There are also 2-3 buttons for this system:
 
 - a lock button
 - an unlock button
-- an unlock iff unlocked, then turn handle button
+- an unlock iff locked, then turn handle button
 
 #### Servo One
 The first servo will be secured in housing that is then, most likely, command stripped to the door. 1) because I don't want to damage the door by screwing into it, and 2) if something were to happen where I need to immediately exit my home, I could rip the whole thing off in one swoop and then repaint easily if anything got damaged. 
