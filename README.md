@@ -34,3 +34,8 @@ This one will be a third button that unlocks the deadbolt if it isn't already un
 ## Power
 
 Nothing too special here, but will probably need some tuning. I have a 3.7V 4400mAh battery laying around that I intend to use. I grabbed [this USB Type C charging circuit here from Adafruit](https://www.adafruit.com/product/4410) and will use that to charge the whole circuit. While power draw will vary wildly based on how often the locks are opened and closed, I expect this to last a solid amount of time between charges.
+
+
+## Write Code
+
+As a small side note, it turns out that PlatformIO handles the servo library differently (or wrong) so it caused my servos to turn really slowly and not go the fully distance that I had coded. So instead of trying to debug it, I have an Arduino IDE .ino file of `main.cpp` so that I can use Arduino's IDE to write the code and have it work as intended.
