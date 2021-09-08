@@ -148,7 +148,7 @@ cards:
         icon: mdi:lock-open-outline
 ```
 
-And it looks like this ![UI Exmaple](https://imgur.com/rwhDQag)
+And it looks like this [![UI Exmaple]](https://imgur.com/rwhDQag)
 
 ### Google Assistant Integrations
 
